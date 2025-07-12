@@ -1,4 +1,4 @@
-# Tour & Travel Website (MERN Stack)
+# Tour & Travel Website -Globetrotter (MERN Stack)
 This is a full-featured Tour & Travel web application built using the MERN Stack. It allows users to explore destinations, make bookings, and contact the travel agency. Admins can manage users, destinations, bookings, and inquiries via an admin panel and payment through OTP generation.
 
 # Features
