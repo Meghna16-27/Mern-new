@@ -1,5 +1,5 @@
 # Tour & Travel Website (MERN Stack)
-This is a full-featured Tour & Travel web application built using the MERN Stack. It allows users to explore destinations, make bookings, and contact the travel agency. Admins can manage users, destinations, bookings, and inquiries via an admin panel.
+This is a full-featured Tour & Travel web application built using the MERN Stack. It allows users to explore destinations, make bookings, and contact the travel agency. Admins can manage users, destinations, bookings, and inquiries via an admin panel and payment through OTP generation.
 
 # Features
 1. Explore beautiful travel destinations with images and descriptions
@@ -16,6 +16,8 @@ This is a full-featured Tour & Travel web application built using the MERN Stack
     Destinations
     Bookings
     Contact messages
+   
+ 6.Payment only using OTP. 
 
 # Tech Stack
 Frontend: React, Bootstrap, Axios, React Router
@@ -33,7 +35,7 @@ Google Maps Integration to show destination locations
 
 1. Progressive Web App (PWA) support for mobile-friendly experience
 
-2. Online Payment Integration for tour booking
+2.  Upgrade online Payment Integration for tour booking
 
 3. Email & SMS notifications for booking confirmations and updates
 
